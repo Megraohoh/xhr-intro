@@ -1,0 +1,23 @@
+{
+	"dinosaurs": [
+		{
+			"name": "Rex",
+			"type": "T-Rex",
+			"food": "smaller dinosaurs",
+			"url": "http://www.squishable.com/mm5/graphics/00000001/t-rex.jpg"
+		},
+		{
+			"name": "Sauropoda",
+			"type": "sauropods",
+			"food": "vegetation",
+			"url": "http://www.skullisdata.com/Robin/sauropods%202.jpg"
+		},
+		{
+			"name": "Dilophosaurus",
+			"type": "T-Rex",
+			"food": "smaller dinosaurs",
+			"url": "http://vignette1.wikia.nocookie.net/jurassicpark/images/4/47/Jurasisc-world-lights-sounds-figure-dilophosaurus.jpg/revision/latest?cb=20150213175505"
+		}
+
+	]
+}
